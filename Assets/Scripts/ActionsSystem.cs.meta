@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 5c1d8d36c0b40b442a30a49e0045a1ca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonsOrigin: {instanceID: 0}
+  - buttonPrefab: {fileID: 292574633477581035, guid: fd3294d7617c846469ba479d36cc9393,
+      type: 3}
+  - emotionTextOrigin: {instanceID: 0}
+  - emotionTextPrefab: {fileID: 3375535712614231601, guid: d14b787249958264dad8102a73a08632,
+      type: 3}
+  - catReactionText: {instanceID: 0}
+  - catMoodSlider: {instanceID: 0}
+  - emoSystem: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
